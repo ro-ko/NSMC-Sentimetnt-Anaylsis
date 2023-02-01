@@ -30,3 +30,11 @@ Sentimetnt Anaylsis project with NSMC dataset
 ```
 <br>
 [KR-BERT github](https://github.com/snunlp/KR-BERT)
+
+
+reference
+- https://github.com/kimtaesu24/KoBERT_with_NAVER
+- https://huggingface.co/snunlp/KR-BERT-char16424
+- https://wikidocs.net/44249
+
+
