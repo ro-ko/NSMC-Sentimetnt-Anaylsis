@@ -1,6 +1,13 @@
 # NSMC-SentimetntAnaylsis
 Sentimetnt Anaylsis project with NSMC dataset
 
+Check .ipynb file, soon .py file will be upload too.
+
+Future work : How to solve irony word detection problem ?
+  - More train about irony dataset
+  - Representation learning for input data to extract irony word.
+  - ...
+
 <br>
 
 ### Citation NSMC
