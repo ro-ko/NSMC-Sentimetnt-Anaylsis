@@ -17,15 +17,16 @@ Sentimetnt Anaylsis project with NSMC dataset
     - center word : Skim-Gram
     - context word : Continuous Bag-of-Words
     
-4. Document Embedding
+4. Document Embedding  
   - GPT : $P(W)= \prod_{n=1}^{L} P(w_n|w_1,\cdots,w_{n-1})$
   - BERT : $P(w_i|w_1,\cdots,w_{i-1},w_{i+1},\cdots,w_{n-1})$
   - we can use latent variable as document embedding
 
-
+## Code  
 Check .ipynb file, soon .py file will be upload too.
 
-Future work : How to solve irony word detection problem ?
+## Future work  
+How to solve irony word detection problem ?  
   - More train about irony dataset
   - Representation learning for input data to extract irony word.
   - ...
